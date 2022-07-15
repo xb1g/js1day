@@ -457,7 +457,8 @@ search things you wanna know more about
     console.log(text);
     return text;
   }
-  sayHello("John");
+  const adfadf = sayHelloTo("John");
+  console.log(adfadf);
 
   function sayHelloNameAge(name, age) {
     console.log("hello " + name + " you are " + age + " years old");
